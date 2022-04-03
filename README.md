@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hthoai&show_icons=true&theme=default)
+<img style="float: left;" src="https://github-readme-stats.vercel.app/api?username=hthoai&count_private=false&show_icons=true&hide_border=false"><img style="float: right;" src="https://github-readme-streak-stats.herokuapp.com/?user=hthoai">
